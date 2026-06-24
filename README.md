@@ -1,38 +1,57 @@
-# Hi, I'm Greeshma 👋
+# Hi there, I'm Greeshma 👋
 
-🎓 Computer Science Student
-📊 Passionate about Data Science & Machine Learning
-
----
-
-## 🔧 Skills
-
-* Python 🐍
-* Pandas, NumPy
-* SQL
-* Basic Machine Learning
+🎓 **B.Tech Computer Science (Data Science) Student**
+📊 Passionate about **Data Science, Machine Learning, and AI**
+🌱 Currently learning **Machine Learning, Data Visualization, and SQL**
+💡 Love solving coding problems and building data-driven projects.
 
 ---
 
-## 🚀 Projects
+## 🚀 Tech Stack
 
-* Student Management System
-* Data Analysis using Python
-* Mini ML Projects
+* 🐍 Python
+* 📊 Pandas & NumPy
+* 🗄️ SQL
+* 🤖 Machine Learning
+* 📈 Matplotlib & Seaborn
+* 💻 Java
 
 ---
 
-## 📈 Currently Learning
+## 📂 Featured Projects
 
-* Machine Learning
+### 🎓 Student Management System
+
+* Built using Java
+* Handles student records efficiently
+
+### 📊 Data Analysis using Python
+
+* Data cleaning with Pandas
+* Data visualization and insights
+
+### 🤖 Mini Machine Learning Projects
+
+* Classification models
+* Data preprocessing
+* Model evaluation
+
+---
+
+## 🌱 Currently Learning
+
+* Machine Learning Algorithms
 * Data Visualization
+* Deep Learning Basics
+* LeetCode Problem Solving
 
 ---
 
-## 📫 Contact
+## 📫 Connect With Me
 
-* Email: vadlamudigreeshma123@gmail.com
+📧 Email: [vadlamudigreeshma123@gmail.com](mailto:vadlamudigreeshma123@gmail.com)
 
----
+✨ *Always learning and building new things!*
+
 
 ✨ Always learning and building new things!
